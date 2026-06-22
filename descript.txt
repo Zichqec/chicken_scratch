@@ -2,7 +2,7 @@ charset,UTF-8
 type,balloon
 use_self_alpha,1
 use_input_alpha,1
-//overlay_outside_balloon,1
+overlay_outside_balloon,1
 
 
 //——— Basic information ———
@@ -17,83 +17,85 @@ homeurl,https://raw.githubusercontent.com/Zichqec/chicken_scratch/refs/heads/mai
 origin.x,0
 origin.y,0
 
-validrect.left,7
-validrect.top,7
-validrect.right,-20
-validrect.bottom,-20
+validrect.left,60
+validrect.top,30
+validrect.right,-120
+validrect.bottom,-35
 
-wordwrappoint.x,-28
+wordwrappoint.x,-150
 
 
 //——— Font ———
-font.name,Calibri
-font.height,14
+font.name,tudy1311.otf
+font.height,45
 
-font.color.r,101
-font.color.g,127
-font.color.b,148
+font.color.r,037
+font.color.g,052
+font.color.b,102
 
-anchor.font.color.r,015
-anchor.font.color.g,084
-anchor.font.color.b,138
+anchor.font.color.r,029
+anchor.font.color.g,068
+anchor.font.color.b,196
 
-cursor.font.color.r,015
-cursor.font.color.g,084
-cursor.font.color.b,138
+cursor.font.color.r,029
+cursor.font.color.g,068
+cursor.font.color.b,196
 
 cursor.style,underline
 
-disable.font.color.r,146
-disable.font.color.g,135
+disable.font.color.r,135
+disable.font.color.g,144
 disable.font.color.b,178
 
 
 //——— Arrows ———
-arrow0.x,-18
-arrow0.y,5
+arrow0.x,464
+arrow0.y,17
 
-arrow1.x,-18
-arrow1.y,-20
+arrow1.x,450
+arrow1.y,332
 
 
 //——— Online marker ———
-onlinemarker.x,5
-onlinemarker.y,-18
+onlinemarker.x,55
+onlinemarker.y,432
 
-//onlinemarker.interval,175
+onlinemarker.interval,70
 
 
 //——— SSTP ———
-sstpmarker.x,18
-sstpmarker.y,-18
+sstpmarker.x,55
+sstpmarker.y,461
 
 sstpmessage.font.name,Calibri
-sstpmessage.font.height,11
+sstpmessage.font.height,13
 
-sstpmessage.x,31
-sstpmessage.xr,-20
-sstpmessage.y,-17
+sstpmessage.x,74
+sstpmessage.xr,-116
+sstpmessage.y,-39
 
-sstpmessage.font.color.r,137
-sstpmessage.font.color.g,154
-sstpmessage.font.color.b,168
+sstpmessage.font.color.r,117
+sstpmessage.font.color.g,134
+sstpmessage.font.color.b,148
 
 
 //——— Number ———
 number.font.name,Calibri
-number.font.height,11
+number.font.height,13
 
-number.xr,-20
-number.y,-17
+number.xr,-116
+number.y,24
 
-number.font.color.r,137
-number.font.color.g,154
-number.font.color.b,168
+number.font.color.r,117
+number.font.color.g,134
+number.font.color.b,148
 
 
 //——— Input box ———
-communicatebox.x,8
-communicatebox.y,8
+communicatebox.font.name,ankecallig-fg.ttf
 
-communicatebox.width,283
-communicatebox.height,20
+communicatebox.x,16
+communicatebox.y,80
+
+communicatebox.width,390
+communicatebox.height,40
