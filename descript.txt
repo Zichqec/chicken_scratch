@@ -18,9 +18,9 @@ origin.x,0
 origin.y,0
 
 validrect.left,60
-validrect.top,30
+validrect.top,40
 validrect.right,-120
-validrect.bottom,-35
+validrect.bottom,-40
 
 wordwrappoint.x,-150
 
