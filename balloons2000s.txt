@@ -1,2 +1,2 @@
-font.name,Calibri
-font.height,35
+font.name,Courier New
+font.height,25
